@@ -1,1 +1,2 @@
 The objective of this course is to learn to recognize, transform and solve a broad class of convex optimization problems arising in various fields such as machine learning, finance or signal processing. The course starts with a basic primer on convex analysis followed by a quick overview of convex duality theory. The second half of the course is focused on algorithms, including first-order and interior point methods, together with bounds on their complexity. The course ends with illustrations of these techniques in various applications.
+Finale Grade= 15/20
